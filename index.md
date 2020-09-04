@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# How to make the most of your PhD?
+
 
 # About
 
