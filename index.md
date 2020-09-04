@@ -1,5 +1,7 @@
 ---
 layout: default
+title: How to make the most of your PhD?
+description: A guide from current to incoming students
 ---
 
 
