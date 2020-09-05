@@ -355,11 +355,13 @@ Ask your friends how they are doing, meet them for a zoom or socially distanced 
 # Conclusion
 
 **Set reasonable expectations for yourself.**
+A PhD is a long process -- no one expects you to come in knowing everything --
+just to come in excited to learn and develop.
 
 **Learn what your advisor's expectations are:**
 It is _always_ a good idea to be proactive, solicit feedback about your progress, communication skills, etc., 
 and have an open discussion with your advisor about what they expect from you.
 
 **Support your peers.** 
-
+Regularly check on your peers, show them that just like them, you don't have everything figured out.
 
