@@ -305,7 +305,7 @@ Asking deeper questions about their experience,
 how exactly they feel and why they think they feel this way can all help them better understand what they want to do.
 And if you're asked for advice, then by all means say what you think! 
 
-**Regularly check up on your peers;**
+**Regularly check up on your peers:**
 Ask your friends how they are doing, meet them for a zoom or socially distanced cup of coffee. 
 
 
