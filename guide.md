@@ -217,10 +217,36 @@ This balance will also likely change over the course of the program.
 but give you more agency over the direction of your research as your understanding of the field develops. 
 
 Although each advisor is different, we do recommend that if they suggest an experiment for you to try, 
-you ask enough questions to understand why they made their suggestion, and then you try it.
+you ask enough questions to understand **why** they made their suggestion, and then you try it.
 We recommend you try it for two reasons: (1) it is important to be respectful of your advisors research experience -- 
 there is a good reason why they suggested the experiment, and (2) trying out their experiment and understanding it has pedagogical value. 
 After you try their experiment, we further recommend you synthesize the results (i.e. what do the results imply?),
 propose a next step to your advisor for feedback, and reach a mutual agreement about what to actually do next.
 This feedback will give you practice driving your own research independently and show your advisor initiative. 
+
+
+## Asking for help
+
+Knowing when to ask for help, 
+and learning to feel comfortable asking for help 
+are both **important skills**.
+Many grad students do not feel comfortable asking their advisor or their peers help, 
+and while it is good to try to hash out problems on your own, it is important to know **when to stop and to ask for help**. 
+
+**Asking "good" questions:**
+If you are nevertheless concerned your questions are not "good" and might waste someone's time, 
+there are a couple things you could do to help others help you, and to show initiative:
+(1) be as specific as possible about what you're confused about,
+(2) list things you've already tried and why did they not work,
+and (3) think why what you're observing differs from what you expected.
+
+**Advisor vs. lab-mates -- who to ask for help?**
+In addition to knowing _when_ and _how_ to ask for help,
+it is also important to know _who_ to ask. 
+The actual advising you will get from your advisor vs. your lab-mates is very lab-dependent.
+In some of the bigger labs, for instance, the advisor mostly helps with big-picture ideas 
+(ex. motivation, overall direction, etc.) and feedback on writing, 
+while lab-mates help hash-out technical issues, on-boarding of new techniques. 
+In other labs, the advisor is more involved with the technical details of each project. 
+_It's always a good idea to ask your advisor and lab-mates who to ask each question!_
 
