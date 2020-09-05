@@ -227,9 +227,9 @@ This feedback will give you practice driving your own research independently and
 
 ## Asking for help
 
-Knowing when to ask for help, 
-and learning to feel comfortable asking for help 
-are both **important skills**.
+Knowing **when to ask for help**, 
+and learning to **feel comfortable asking for help**
+are both important skills.
 Many grad students do not feel comfortable asking their advisor or their peers help, 
 and while it is good to try to hash out problems on your own, it is important to know **when to stop and to ask for help**. 
 
@@ -249,4 +249,32 @@ In some of the bigger labs, for instance, the advisor mostly helps with big-pict
 while lab-mates help hash-out technical issues, on-boarding of new techniques. 
 In other labs, the advisor is more involved with the technical details of each project. 
 _It's always a good idea to ask your advisor and lab-mates who to ask each question!_
+
+
+## Lab logistics
+
+Each lab / advisor are different, and it is good to know what is expected of you when it comes to lab logistics. 
+Here we talk about logistics surrounding paper deadlines, camera-ready papers and vacations (though these are not the only lab logistics to ask about!). 
+Specifically, we list some questions that might be worth thinking about (and directly asking your advisor)
+to make sure you know what's expected of you.
+
+> **Paper Deadlines:**
+* Which deadlines are you aiming for?
+* How long before the deadline does your advisor need to see a draft?
+* Does your advisor need to see the final paper submission, or do they just ``ok'' it when it looks reasonably close?
+* What should you do if the results turn out negative? What should you do if they are positive but just barely? Do you still submit or do you wait for the next deadline?
+* Does your advisor need to see the camera-ready submission? (ex. to ensure the acknowledgements, authorship, etc. are correct before submission). 
+
+> **Conferences:**
+* Who funds travel, lodging and meals? What is the requirements and process for reimbursements? 
+* How many conferences will they send you for per year? and do they expect you to go to conferences at which you are not presenting? 
+* Does your advisor need to approve your poster? 
+* Does your advisor need to approve your spotlight presentation / contributed talk? 
+* What is the etiquette for representing your collaborators' work? 
+* What is the etiquette when discussion future work with non lab-folks? (how much is appropriate to disclose?). 
+
+> **Vacations:**
+* How long in advance does your advisor need to know about your vacation? 
+* How long is a reasonable vacation? or does it not matter so much so long as you are on-top of your lab duties? 
+* When is reasonable to take a vacation? (ex. Anytime? right after a deadline? to try to align it when your advisor is away?) 
 
