@@ -7,9 +7,9 @@ description: A guide from current to incoming students
 
 # About
 
-**Who is this workshop for?**
+**Time/Date**
 
-We especially encourage first-year PhD students in SEAS to come. All PhD students are welcome!
+This workshop will take place virtually via zoom. Time/date TBD.
 
 
 **What is this workshop about?**
@@ -22,6 +22,11 @@ Specifically, in the workshop we'll be discussing:
 2. Understanding and managing your relationship with your advisor
 3. Creating a more supportive and healthier community
 
+**Who is this workshop for?**
+
+We especially encourage first-year PhD students in SEAS to come. All PhD students are welcome!
+
+
 **Who is organizing this workshop?**
 
 Current PhD students, staff, and faculty who deeply care about
@@ -29,7 +34,9 @@ creating a healthy and welcoming environment for all students.
 You can find a full list of organizers [below](#organizers).
 
 
-# Material
+# Missed the Workshop? Want a refresher?
+
+The complete material can be found here.
 
 
 # Organizers    
@@ -39,3 +46,7 @@ TODO.
 # Additional Resources
 
 TODO.
+
+# Contact Us
+
+E-mail (Yaniv Yacoby) yanivyacoby [AT] g [DOT] harvard [DOT] edu
