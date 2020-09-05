@@ -103,3 +103,25 @@ rather than on outcomes (ex. getting published).
 The specific set of skills you have to learn depends on your lab and advisor. For specifics, see Section 2.
 
 
+## Balancing research vs. classes
+
+Coming especially directly from undergrad/master's, you may feel compelled to treat classes like you did before -- 
+that is, you may feel that getting good grades and taking hard classes reflects your success in the program,
+and may further help get you a good position when you graduate.
+In grad school, this is only partially true.
+If you're applying to fellowships, then grades do matter, but the difficulty of the classes does not necessarily matter.
+Aside from that, however, _the emphasis is not on grades and classes, but on research_.
+Therefore, so long as you learn the skills and tools necessary to do your research (as per your advisor's recommendation), 
+we recommend you focus on learning and not on grades.
+
+> To help balance classes and research (as well as personal life), we compiled a list of tips we hope you find useful:
+* Work on problem-sets with classmates. In many classes, the instructors even specifically say the problem-sets are designed to require collaboration!
+* Go to office hours, and come prepared with questions after having already looked at and attempted the problems. 
+* Try to align class projects with research -- some professors let you even combine your research with the class project.
+* Take a research course with your advisor (ex. CS299r in Computer Science, AM299r in Applied Math, etc.), since in some departments you can count that as a class.
+* Since classes have more defined expectations and research is open ended, it’s easy to pour more time into classes than into research. You can try setting limits on how much time you spend on each class per week. 
+
+
+
+# [2] What does your advisor expect from you in your first year?
+
