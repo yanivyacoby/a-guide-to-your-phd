@@ -289,8 +289,9 @@ or about their experiences in different parts of their career, etc.
 * You can take classes and work in teams.
 * Attend events organized by the [SEAS Graduate Council](https://gc.seas.harvard.edu/)
 (they are super friendly!) and/or events hosted by your department. 
-* Get involved in SEAS-wide initiative (outreach, the SEAS Graduate Council, etc.). 
-
+* Get involved in SEAS-wide initiatives (outreach, the SEAS Graduate Council, etc.). 
+* Meet with folks from [InTouch](https://intouch.seas.harvard.edu/),
+a student-founded peer-to-peer support network. 
 
 
 ## Lab logistics
