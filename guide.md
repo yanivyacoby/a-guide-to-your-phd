@@ -127,3 +127,42 @@ we recommend you focus on learning and not on grades.
 
 # 2. What does your advisor expect from you in your first year?
 
+Your relationship with your advisor is a two-way street:
+on one hand, you are expected carry out lab duties and push your research project forward, 
+and on the other, your advisor is expected to provide you with the feedback and support you need to become an independent researcher.
+As such, you need to make sure you're a productive member of lab (making your advisor happy), 
+while you need to make sure you’re getting the support you need (making you happy). 
+_Each advisor / lab will have different expectations_, 
+and it is important you **communicate effectively** to determine what these expectations are and **how to meet these expectations**, 
+while also ensuring you are getting the **help and support you need**. 
+As a rule of thumb, we recommend you to be the one to manage your relationship with your advisor -- 
+_to be proactive in seeking feedback, resources, advice, etc._ -- 
+and generally to err on the side of asking more questions than less.
+In this section, we go into more detail about several areas of conversation we recommend you to talk to your advisor about.
+Since each advisor / lab are unique, these may not be 100% applicable to you, but we hope that this can help get you started!
+
+
+## Soliciting feedback from your advisor
+
+Some advisors give feedback regularly and some don't, and some advisors only give feedback on certain topics and not others.
+As such, we recommend to periodically (every several weeks) schedule a one-on-on meeting with your advisor to solicit for feedback directly.
+Some questions to ask your advisor include:
+
+* Am I improving in the areas that I need to most? 
+* What skill should I focus on most in the next couple of weeks? 
+* How can I communicate better in group meetings?
+* Are you overall happy with my performance? 
+* How can I be a more supportive lab-mate? 
+
+Asking for feedback will (1) help you stay focused and improve more quickly, 
+(2) show your advisor initiative and desire to improve, and lastly, 
+(3) it will help prevent problems of miscommunication / never leave you 
+uncertain about whether your advisor is unhappy with you 
+(ex. you would expect to pass your qualifying exam since you were proactive about improving in all the necessary areas).
+
+Since you are just starting your PhD, be ready to get some constructive (negative-sounding) feedback -- 
+it does not mean your advisor thinks you’re doomed to fail -- 
+it means your advisor is trying to help you develop as a researcher.
+In short, you are not expected to start out knowing everything, 
+so you should expect to be getting constructive feedback! 
+
