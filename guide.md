@@ -154,9 +154,9 @@ As such, we recommend to periodically (every several weeks) schedule a one-on-on
 * Are you overall happy with my performance? 
 * How can I be a more supportive lab-mate? 
 
-Asking for feedback will (1) help you stay focused and improve more quickly, 
-(2) show your advisor initiative and desire to improve, and lastly, 
-(3) it will help prevent problems of miscommunication / never leave you 
+Asking for feedback will (1) help you **stay focused** and improve more quickly, 
+(2) show your advisor **initiative** and desire to improve, and lastly, 
+(3) it will help **prevent miscommunication** / never leave you 
 uncertain about whether your advisor is happy/unhappy with you 
 (ex. you would expect to pass your qualifying exam since you were proactive about improving in all the necessary areas).
 
@@ -190,4 +190,37 @@ whether it be for an hour-long presentation at your lab's group presentation, or
 * Before the end of the meeting, agree on the next steps to pursue together (that way you know exactly what your advisor expects from you and you can make sure you didn't spent a bunch of time working on something that isn't useful). Alternatively/additionally, after the meeting you can summarize the meeting and conclusions in email/slack. 
 * Find an organizational method to keep track of discussion in the meetings.
 * Send out slides / document / latex in advance so folks are given the chance to delve right in. Although it may seem like a high overhead to do for a meeting, the more you do it the quicker and more natural it will become. 
+
+
+## Getting up to speed -- the fundamental skill-set
+
+Every lab has a fundamental skill set required to start doing research, 
+whether it be your lab's in-house fabrication processes / lab equipment, 
+a theoretical basis required for your research, 
+a way of thinking and communicating clearly, etc.
+Since each lab is different, we recommend asking your advisor, as well as your lab-mates some questions to get you started:
+
+> **These questions include,**
+* What is the fundamental set of skills necessary to learn to be a productive member of lab? Which of these skills is the highest priority? and how can I learn it most effectively?
+* What classes do you recommend I take that would be useful for my research / to broader my understanding of related fields?
+* Are there specific related work you recommend I read for my project? What is your strategy for reading research papers?
+
+
+## Independence vs. dependence
+
+Does your advisor prefer for you to be completely independent in determining which project to pick and what experiment to try next? 
+or do they prefer for you to work on projects they select and carry out the experiments they think are best to try next?
+Each advisor is different and will likely prefer some balance of the two.
+This balance will also likely change over the course of the program.
+
+> For example, some advisors will choose your first project for you (or give you several options to choose from), 
+but give you more agency over the direction of your research as your understanding of the field develops. 
+
+Although each advisor is different, we do recommend that if they suggest an experiment for you to try, 
+you ask enough questions to understand why they made their suggestion, and then you try it.
+We recommend you try it for two reasons: (1) it is important to be respectful of your advisors research experience -- 
+there is a good reason why they suggested the experiment, and (2) trying out their experiment and understanding it has pedagogical value. 
+After you try their experiment, we further recommend you synthesize the results (i.e. what do the results imply?),
+propose a next step to your advisor for feedback, and reach a mutual agreement about what to actually do next.
+This feedback will give you practice driving your own research independently and show your advisor initiative. 
 
