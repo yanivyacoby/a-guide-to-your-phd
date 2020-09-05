@@ -55,12 +55,28 @@ for some it may come from a deep curiosity for the particular
 (and perhaps obscure) thing they are studying, for some the tasks themselves are enjoyable. 
 Investing the time to find what excites you most about your work can help you if you ever find yourself losing momentum.
 Most grad students will find themselves at least several times in their PhD unexcited about their project, and that is perfectly natural.
-The good news is though, that **excitement is a skill** one can to work on.
+The good news though, is that **excitement is a skill** one can to work on!
 We therefore recommend that if you start noticing yourself feeling this way, 
 talk to your advisors and lab-mates and see what works for them!
 
 > Additional things to try include,
 * Switching between different research projects or between research and class-work when you feel like you are losing momentum ("productive procrastination"). 
 * Reminding yourself of how your research contributes to the bigger picture.
+
+
+## Process vs. outcomes
+
+You may look up to more experienced graduate students in your lab / at SEAS and expect yourself to be just like them: 
+you may expect yourself to present work clearly, 
+make consistent progress on research every week, 
+have interesting / insightful observations about others' work at meetings, 
+publish lots of papers, collaborate with lots of people, 
+have a good work/life balance, etc.
+Unfortunately, PhDs take a long time to complete for a good reason: 
+you are not expected to come in with these skills -- you are expected to develop them over the course of the PhD.
+While comparing yourself with more experienced students you admire may help you set goals, there is also a danger in doing that:
+_it is easy to only notice their outcomes (exciting progress on research, insightful ideas) 
+and forget that it took them conscious hard work over several years to get there._
+
 
 
