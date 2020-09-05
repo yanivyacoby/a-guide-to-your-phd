@@ -24,7 +24,9 @@ In this workshop, we will also give you tips and advice that we hope will help y
 answer the above questions for your personal situations. 
 
 
-# [1. What should you expect from yourself in your first year?](#part1)
+<a name="part1"></a>
+# 1. What should you expect from yourself in your first year?
+
 
 One key aspect for success in your PhD is **knowing what is reasonable to expect of yourself at each stage of the program**.
 Since the PhD is a sort of apprenticeship to learn to become an independent researcher, 
