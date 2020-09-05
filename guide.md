@@ -12,7 +12,7 @@ description: A guide from current to incoming students
 When pursuing a PhD, you will face many challenges.
 Oftentimes these challenges don't come from the places where you expect;
 specifically, many of the challenges are not about the technical work you'll do in your PhD,
-but are about the soft-skills and mental aspects of the journey.
+but are about the soft-skills and mental aspects of the PhD process.
 In this workshop, we'll go over three sources of stress you may encounter in your PhD,
 and specifically within your first year:
 1. What should you expect from yourself in your first year?
