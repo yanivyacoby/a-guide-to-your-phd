@@ -13,7 +13,7 @@ TODO.
 
 # What should you expect from yourself in your first year?
 
-**One key aspect for success in your PhD is knowing what is reasonable to expect of yourself at each stage of the program.**
+One key aspect for success in your PhD is **knowing what is reasonable to expect of yourself at each stage of the program**.
 Since the PhD is a sort of apprenticeship to learn to become an independent researcher, 
 it is not reasonable for you to expect yourself to do "great research" right from the start.
 In fact, it is not reasonable for you to compare yourself to students who are even one year ahead in the program, 
@@ -28,3 +28,7 @@ Some of these are productive, but some can be unreasonable to place on yourself.
 * If you came directly from undergrad/master's, you may feel like it is important for you to get straight A's. 
 * When interacting with more senior PhD students, you may get the feeling that its important to have many projects ongoing simultaneously.
 
+While some of these expectations will be **helpful and attainable**, some will be **unreasonable** and may cause you **unnecessary stress**.
+In this section, we list some common (and often unreasonable) expectations incoming students might have for themselves, as well as reasonable alternatives. 
+Since every students' experience is different, you may relate to many of these, only some or none at all, 
+but we hope they will at least get you to think about what expectations you may have for yourself and whether or not they are sensible.
