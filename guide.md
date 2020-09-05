@@ -17,8 +17,8 @@ In this workshop, we'll go over three sources of stress you may encounter in you
 and especially within your first year:
 
 1. [What should you expect from yourself in your first year?](#part1)
-2. What does your advisor expect from you in your first year?
-3. How can you be supportive of your peers?
+2. [What does your advisor expect from you in your first year?](#part2)
+3. [How can you be supportive of your peers?](#part3)
 
 In this workshop, we will also give you tips and advice that we hope will help you
 answer the above questions for your personal situations. 
@@ -139,7 +139,7 @@ we recommend you focus on learning and not on grades.
 * Since classes have more defined expectations and research is open ended, it’s easy to pour more time into classes than into research. You can try setting limits on how much time you spend on each class per week. 
 
 
-
+<a name="part2"></a>
 # 2. What does your advisor expect from you in your first year?
 
 Your relationship with your advisor is a two-way street:
@@ -320,7 +320,7 @@ to make sure you know what's expected of you.
 * When is reasonable to take a vacation? (ex. Anytime? right after a deadline? to try to align it when your advisor is away?) 
 
 
-
+<a name="part3"></a>
 # 3. How can you be supportive of your peers?
 
 **Lead with vulnerability:**
