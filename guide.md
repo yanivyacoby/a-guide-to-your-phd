@@ -30,5 +30,31 @@ Some of these are productive, but some can be unreasonable to place on yourself.
 
 While some of these expectations will be **helpful and attainable**, some will be **unreasonable** and may cause you **unnecessary stress**.
 In this section, we list some common (and often unreasonable) expectations incoming students might have for themselves, as well as reasonable alternatives. 
-Since every students' experience is different, you may relate to many of these, only some or none at all, 
+Since every students' experience is different, you may relate to many of these, only some, or none at all, 
 but we hope they will at least get you to think about what expectations you may have for yourself and whether or not they are sensible.
+
+## What you think your project is about vs. what it's actually about
+
+Research problems are often posed to be very **specific**, but they are pitched in terms of their **broad implications**.
+There can be a stark difference between the day-to-day work and the promised broader impact of the research. 
+The day-to-day work is often more tedious and difficult, filled with lots of trial and error, dead ends and uncertainty.
+
+> As an example, a project to understand a specific type of mechanism in cancerous cells may help one day lead to a cure, 
+but the day-to-day work involves a difficult and long process of data collection, wet-lab work, etc.
+
+While it is good to practice pitching your project in the most impressive way possible (to prepare for future job interviews, for instance), 
+it is good to notice how it comes across to others, and to notice how you perceive others’ projects. 
+It is easy to feel like everyone else’s research projects are significantly more interesting than your project, 
+and to forget that you can easily cause a peer to feel like their research is boring in comparison to your research. 
+
+**Staying excited:** _It is unreasonable to expect your day-to-day work to be exciting in the same sort of way the broader implications are exciting._
+The broader implications are tailored to excite excite both technical and non-technical people -- 
+anyone can get excited about a cure for cancer, a robot that walks, etc.
+Excitement about the day-to-day work comes from different sources; for some it may come from a deep curiosity for the particular 
+(and perhaps obscure) thing they are studying, for some the tasks themselves are enjoyable. 
+Investing the time to find what excites you most about your work can help you if you ever find yourself losing momentum.
+Most grad students will find themselves at least several times in their PhD unexcited about their project, and that is perfectly natural.
+_This sort of excitement is a skill one has to work on._
+We therefore recommend that if you start noticing yourself feeling this way, talk to your advisors and lab-mates and see what works for them!
+
+
