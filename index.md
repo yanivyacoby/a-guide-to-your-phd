@@ -35,3 +35,7 @@ You can find a full list of organizers [below](#organizers).
 # Organizers    
 
 TODO.
+
+# Additional Resources
+
+TODO.
