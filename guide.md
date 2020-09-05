@@ -146,8 +146,8 @@ Since each advisor / lab are unique, these may not be 100% applicable to you, bu
 
 Some advisors give feedback regularly and some don't, and some advisors only give feedback on certain topics and not others.
 As such, we recommend to periodically (every several weeks) schedule a one-on-on meeting with your advisor to solicit for feedback directly.
-Some questions to ask your advisor include:
 
+> Some questions to ask your advisor include:
 * Am I improving in the areas that I need to most? 
 * What skill should I focus on most in the next couple of weeks? 
 * How can I communicate better in group meetings?
@@ -157,12 +157,25 @@ Some questions to ask your advisor include:
 Asking for feedback will (1) help you stay focused and improve more quickly, 
 (2) show your advisor initiative and desire to improve, and lastly, 
 (3) it will help prevent problems of miscommunication / never leave you 
-uncertain about whether your advisor is unhappy with you 
+uncertain about whether your advisor is happy/unhappy with you 
 (ex. you would expect to pass your qualifying exam since you were proactive about improving in all the necessary areas).
 
-Since you are just starting your PhD, be ready to get some constructive (negative-sounding) feedback -- 
+Since you are just starting your PhD, be ready to get some constructive (and maybe negative-sounding) feedback -- 
 it does not mean your advisor thinks you’re doomed to fail -- 
 it means your advisor is trying to help you develop as a researcher.
 In short, you are not expected to start out knowing everything, 
 so you should expect to be getting constructive feedback! 
+
+
+## Effective communication in lab meetings
+
+Each advisor manages their lab differently.
+To better tailor your communication to you advisor / group meeting style, 
+> **We compiled a list of questions** we hope will be useful for you to think about 
+in order to better tailor your communication to you advisor / group meeting style:
+* What do kind of feedback do you need? (what questions do you have? where are you stuck? what is the next experiment to try?) and what do you need to tell your advisor to solicit this kind of feedback?
+* What does your advisor need to hear about the project so they can help stir the project in the directions needed for their constraints (grand funding, collaboration agreements, personal interests, etc.)? 
+* Does your advisor remember exactly what you agreed on in the last meeting? or do they need a quick summary of the state of the project and what was agreed upon the previous meeting?
+* Are there others in the meeting who do not work on your project? What kind of feedback do you need from them? What do they need from you to feel included in the conversation? 
+* How much time to you get to present for? 
 
