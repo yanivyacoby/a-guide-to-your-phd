@@ -9,23 +9,24 @@ description: A guide from current to incoming students
 
 **Who is this workshop for?**
 
-We especially encourage first-year PhD students to come. All PhD students welcome.
-
+We especially encourage first-year PhD students in SEAS to come. All PhD students are welcome!
 
 
 **What is this workshop about?**
 
-You will learn about several points of pressure that PhD students experience, particularly in their first year
-You will learn how to better alleviate those points of pressures by
-Learning what are reasonable expectations to set for yourself
-Learning to effectively communicate with your advisor
-You will learn how to build a more supportive and healthier community by helping your peers navigate through the points of pressure we mention 
+The workshop highlights three broad sources of pressure that many PhD students experience, 
+particularly in their first year,
+as well as concrete and actionable tips to alleviate these pressures.
+Specifically, in the workshop we'll be discussing:
+1. What are reasonable vs. unreasonable expectations you may have for yourself?
+2. Understanding and managing your relationship with your advisor
+3. Creating a more supportive and healthier community
 
 **Who is organizing this workshop?**
 
-Current PhD students, staff and professors who deeply care about
+Current PhD students, staff, and faculty who deeply care about
 creating a healthy and welcoming environment for all students. 
-You can find a full list [below](#organizers).
+You can find a full list of organizers [below](#organizers).
 
 
 # Material
