@@ -179,3 +179,15 @@ in order to better tailor your communication to you advisor / group meeting styl
 * Are there others in the meeting who do not work on your project? What kind of feedback do you need from them? What do they need from you to feel included in the conversation? 
 * How much time to you get to present for? 
 
+
+Problems in communication can results in a frustrated advisor (who may even think you don’t know what you’re doing, or that you’re not working hard!).
+They may also result in lack of useful feedback (and thus a frustrating / stagnant project). 
+
+> Although each advisor and lab are different, we hope you find some of the following strategies useful to improve your communication skills, 
+whether it be for an hour-long presentation at your lab's group presentation, or for a quick 5-minute project update:
+* Ask your advisor and peers for feedback your presentation (even if its only a quick 5-min project update). Especially given time constraints, this can help you get the most out of your advisor and lab-mates. 
+* Summarize where you left off last meeting (ex. what hypotheses you were thinking about). Given these hypotheses, summarize what you agreed to do prior to this meeting. Lastly, give update -- make sure to synthesize the high-level conclusions (don’t just brain dump a bunch of figures and facts from your experiments). Lastly, propose a set of next steps and discuss.
+* Before the end of the meeting, agree on the next steps to pursue together (that way you know exactly what your advisor expects from you and you can make sure you didn't spent a bunch of time working on something that isn't useful). Alternatively/additionally, after the meeting you can summarize the meeting and conclusions in email/slack. 
+* Find an organizational method to keep track of discussion in the meetings.
+* Send out slides / document / latex in advance so folks are given the chance to delve right in. Although it may seem like a high overhead to do for a meeting, the more you do it the quicker and more natural it will become. 
+
