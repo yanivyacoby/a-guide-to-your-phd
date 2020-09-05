@@ -14,7 +14,7 @@ Oftentimes these challenges don't come from the places where you expect;
 specifically, many of the challenges are not about the technical work you'll do in your PhD,
 but are about the soft-skills and mental aspects of the PhD process.
 In this workshop, we'll go over three sources of stress you may encounter in your PhD,
-and specifically within your first year:
+and especially within your first year:
 
 1. [What should you expect from yourself in your first year?](#sec1)
 2. What does your advisor expect from you in your first year?
@@ -24,7 +24,9 @@ In this workshop, we will also give you tips and advice that we hope will help y
 answer the above questions for your personal situations. 
 
 
-[sec1]: # 1. What should you expect from yourself in your first year?
+# 1. What should you expect from yourself in your first year?
+
+[sec1]: #sec1
 
 One key aspect for success in your PhD is **knowing what is reasonable to expect of yourself at each stage of the program**.
 Since the PhD is a sort of apprenticeship to learn to become an independent researcher, 
