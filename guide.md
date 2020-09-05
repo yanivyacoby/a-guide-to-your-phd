@@ -9,7 +9,18 @@ description: A guide from current to incoming students
 
 # Introduction
 
-TODO.
+When pursuing a PhD, you will face many challenges.
+Oftentimes these challenges don't come from the places where you expect;
+specifically, many of the challenges are not about the technical work you'll do in your PhD,
+but are about the soft-skills and mental aspects of the journey.
+In this workshop, we'll go over three sources of stress you may encounter in your PhD,
+and specifically within your first year:
+1. What should you expect from yourself in your first year?
+2. What does your advisor expect from you in your first year?
+3. How can you be supportive of your peers?
+For each of these challenges, we will give you tips and advice that we hope will help you
+answer the above questions for your personal situations. 
+
 
 # 1. What should you expect from yourself in your first year?
 
