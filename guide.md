@@ -261,7 +261,7 @@ to make sure you know what's expected of you.
 > **Paper Deadlines:**
 * Which deadlines are you aiming for?
 * How long before the deadline does your advisor need to see a draft?
-* Does your advisor need to see the final paper submission, or do they just ``ok'' it when it looks reasonably close?
+* Does your advisor need to see the final paper submission, or do they just "ok" it when it looks reasonably close?
 * What should you do if the results turn out negative? What should you do if they are positive but just barely? Do you still submit or do you wait for the next deadline?
 * Does your advisor need to see the camera-ready submission? (ex. to ensure the acknowledgements, authorship, etc. are correct before submission). 
 
@@ -277,4 +277,46 @@ to make sure you know what's expected of you.
 * How long in advance does your advisor need to know about your vacation? 
 * How long is a reasonable vacation? or does it not matter so much so long as you are on-top of your lab duties? 
 * When is reasonable to take a vacation? (ex. Anytime? right after a deadline? to try to align it when your advisor is away?) 
+
+
+
+# 3. How can you be supportive of your peers?
+
+**Lead with vulnerability:**
+Many of us who are in PhD programs have been trained to lead with strengths -- to portray ourselves in the way that makes us look most impressive so we can pass interviews, impress colleagues, etc.
+While leading strengths is a useful skill, it can also lead to isolation during grad school. 
+PhD students are at a significantly higher risk of developing depression, anxiety and imposter syndrome than the rest of the population.
+It is easy to slip into a dark mindset in which you feel like you're not meeting your expectations for yourself, 
+and in which everyone around you is successful and well-balanced.
+And while in Section 1, we encouraged you to set reasonable expectations for yourself based on your stage in the program;
+here we encourage you to think about how you can help shape your peers' self-expectations for the better.
+Even in the most ordinary hallway interaction -- when you're asked "how are you?" on your way to class -- your response matters!
+We encourage you to be as honest as you feel comfortable about your experience; 
+if you are having a bad week, tell your friend about it -- don't just answer "I'm fine, how are you?". 
+If everyone contributed a real vulnerability, no one has to feel like they are the only one struggling, 
+and everyone can realize that most students are facing the same difficulties.
+Moreover, if you lead with a real vulnerability, your friend might reciprocate and give you a chance to be supportive. 
+
+**Validate:**
+When you talk to a peer who is leading with a vulnerability, although un-intuitive, it is sometimes good to just listen and to sympathize.
+Offering solutions can trivialize your friends' problems -- it can make them think 
+"if the solution is so obvious, why am I struggling? it must be because something's wrong with me". 
+Asking deeper questions about their experience, 
+how exactly they feel and why they think they feel this way can all help them better understand what they want to do.
+And if you're asked for advice, then by all means say what you think! 
+
+**Regularly check up on your peers;**
+Ask your friends how they are doing, meet them for a zoom or socially distanced cup of coffee. 
+
+
+# Conclusion
+
+**Set reasonable expectations for yourself.**
+
+**Learn what your advisor's expectations are:**
+It is _always_ a good idea to be proactive, solicit feedback about your progress, communication skills, etc., 
+and have an open discussion with your advisor about what they expect from you.
+
+**Support your peers.**
+
 
