@@ -317,6 +317,6 @@ Ask your friends how they are doing, meet them for a zoom or socially distanced 
 It is _always_ a good idea to be proactive, solicit feedback about your progress, communication skills, etc., 
 and have an open discussion with your advisor about what they expect from you.
 
-**Support your peers.**
+**Support your peers.** 
 
 
