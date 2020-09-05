@@ -20,7 +20,7 @@ and specifically within your first year:
 2. What does your advisor expect from you in your first year?
 3. How can you be supportive of your peers?
 
-For each of these challenges, we will give you tips and advice that we hope will help you
+In this workshop, we will also give you tips and advice that we hope will help you
 answer the above questions for your personal situations. 
 
 
