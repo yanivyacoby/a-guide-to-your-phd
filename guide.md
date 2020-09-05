@@ -117,7 +117,7 @@ As a take-away, especially in your first year,
 we recommend focusing more on process and skills 
 (learning background material, principled experimental design, communicating effectively), 
 rather than on outcomes (ex. getting published).
-The specific set of skills you have to learn depends on your lab and advisor. For specifics, see Section 2.
+The specific set of skills you have to learn depends on your lab and advisor. For specifics, see [Section 2](#part2).
 
 
 ## Balancing research vs. classes
@@ -329,7 +329,7 @@ While leading strengths is a useful skill, it can also lead to isolation during 
 PhD students are at a significantly higher risk of developing depression, anxiety and imposter syndrome than the rest of the population.
 It is easy to slip into a dark mindset in which you feel like you're not meeting your expectations for yourself, 
 and in which everyone around you is successful and well-balanced.
-And while in Section 1, we encouraged you to set reasonable expectations for yourself based on your stage in the program;
+And while in [Section 1](#part1), we encouraged you to set reasonable expectations for yourself based on your stage in the program;
 here we encourage you to think about how you can help shape your peers' self-expectations for the better.
 Even in the most ordinary hallway interaction -- when you're asked "how are you?" on your way to class -- your response matters!
 We encourage you to be as honest as you feel comfortable about your experience; 
