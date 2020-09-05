@@ -82,13 +82,15 @@ In fact, if you only notice the outcomes, it may lead to an unproductive researc
 Slow progress based on a methodical process can more constructively lead to 
 publishable insights than quick attempts to jump right to an interesting result:
 
-> **Example of an unproductive research process:** Consider, for instance, student A, who has watched how their more senior lab-mates seemingly go from having no 
+> Example of an **unproductive** research process: 
+Consider, for instance, student A, who has watched how their more senior lab-mates seemingly go from having no 
 project to having a nearly complete paper with exciting results and broader implications. 
 Student A tries to imitate: they try to go from nothing to everything in a single step. 
 However, since such a research process rarely works, they end up getting negative results. 
 They then find that they cannot process these negative results constructively, because they do not naturally lead to a hypothesis for why the experiment failed). Student A then feel inadequate in comparison to their lab-mates, and moreover does not ask for help because they feel like they would be wasting others' time.
 
-> **Example of a productive research process:** In contrast, consider student B, who does not compare themselves with more senior students and thus 
+> Example of a **productive** research process: 
+In contrast, consider student B, who does not compare themselves with more senior students and thus 
 does not expect themselves to complete the whole project in one step.
 Instead, they follow the advice of their advisor and try to understand where that advice is coming from, (even when it might seem annoying / tedious). 
 They build a sequence of small-scale experiments, 
