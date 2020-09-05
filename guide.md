@@ -11,7 +11,7 @@ description: A guide from current to incoming students
 
 TODO.
 
-# [1] What should you expect from yourself in your first year?
+# 1. What should you expect from yourself in your first year?
 
 One key aspect for success in your PhD is **knowing what is reasonable to expect of yourself at each stage of the program**.
 Since the PhD is a sort of apprenticeship to learn to become an independent researcher, 
@@ -24,7 +24,7 @@ You may have expectations for yourself that have been carried over from your pre
 or you may adopt new expectations in the program when interacting with your cohort and lab-mates.
 Some of these are productive, but some can be unreasonable to place on yourself.
 
-> For example:
+> **For example:**
 * If you came directly from undergrad/master's, you may feel like it is important for you to get straight A's. 
 * When interacting with more senior PhD students, you may get the feeling that its important to have many projects ongoing simultaneously.
 
@@ -39,7 +39,7 @@ Research problems are often posed to be very **specific**, but they are pitched 
 There can be a stark difference between the day-to-day work and the promised broader impact of the research. 
 The day-to-day work is often more tedious and difficult, filled with lots of trial and error, dead ends and uncertainty.
 
-> As an example, a project to understand a specific type of mechanism in cancerous cells may help one day lead to a cure, 
+> **As an example**, a project to understand a specific type of mechanism in cancerous cells may help one day lead to a cure, 
 but the day-to-day work involves a difficult and long process of data collection, wet-lab work, etc.
 
 While it is good to practice pitching your project in the most impressive way possible (to prepare for future job interviews, for instance), 
@@ -59,7 +59,7 @@ The good news though, is that **excitement is a skill** one can to work on!
 We therefore recommend that if you start noticing yourself feeling this way, 
 talk to your advisors and lab-mates and see what works for them!
 
-> Additional things to try include,
+> **Additional things to try include**,
 * Switching between different research projects or between research and class-work when you feel like you are losing momentum ("productive procrastination"). 
 * Reminding yourself of how your research contributes to the bigger picture.
 
@@ -82,14 +82,14 @@ In fact, if you only notice the outcomes, it may lead to an unproductive researc
 Slow progress based on a methodical process can more constructively lead to 
 publishable insights than quick attempts to jump right to an interesting result:
 
-> Example of an **unproductive** research process: 
+> **Example of an unproductive research process:**
 Consider, for instance, student A, who has watched how their more senior lab-mates seemingly go from having no 
 project to having a nearly complete paper with exciting results and broader implications. 
 Student A tries to imitate: they try to go from nothing to everything in a single step. 
 However, since such a research process rarely works, they end up getting negative results. 
 They then find that they cannot process these negative results constructively, because they do not naturally lead to a hypothesis for why the experiment failed). Student A then feel inadequate in comparison to their lab-mates, and moreover does not ask for help because they feel like they would be wasting others' time.
 
-> Example of a **productive** research process: 
+> **Example of a productive research process:**
 In contrast, consider student B, who does not compare themselves with more senior students and thus 
 does not expect themselves to complete the whole project in one step.
 Instead, they follow the advice of their advisor and try to understand where that advice is coming from, (even when it might seem annoying / tedious). 
@@ -116,7 +116,7 @@ Aside from that, however, _the emphasis is not on grades and classes, but on res
 Therefore, so long as you learn the skills and tools necessary to do your research (as per your advisor's recommendation), 
 we recommend you focus on learning and not on grades.
 
-> To help balance classes and research (as well as personal life), we compiled a list of tips we hope you find useful:
+> **We compiled a list of tips** we hope you find useful to help balance classes and research (as well as personal life):
 * Work on problem-sets with classmates. In many classes, the instructors even specifically say the problem-sets are designed to require collaboration!
 * Go to office hours, and come prepared with questions after having already looked at and attempted the problems. 
 * Try to align class projects with research -- some professors let you even combine your research with the class project.
@@ -125,5 +125,5 @@ we recommend you focus on learning and not on grades.
 
 
 
-# [2] What does your advisor expect from you in your first year?
+# 2. What does your advisor expect from you in your first year?
 
