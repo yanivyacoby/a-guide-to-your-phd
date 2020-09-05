@@ -268,8 +268,11 @@ Some it's helpful to get more perspectives than just your advisor's,
 whether on a technical problem, a life decision, support, etc.
 
 _Get to know [John Girash](https://scholar.harvard.edu/girash/home) 
-and [Ann Greaney-Williams](https://www.seas.harvard.edu/about-us/directory?search=%22Ann%20Greaney-Williams%22)_;
-they are TODO.
+and [Ann Greaney-Williams](https://www.seas.harvard.edu/about-us/directory?search=%22Ann%20Greaney-Williams%22)_.
+John is the Director of Graduate Academic Programs and
+and Ann is the Graduate Academic Program Administrator;
+they are invested in your experience and your well-being
+and are here to support you. 
 
 > **How to get to know more faculty?**
 * You can take their classes and attend their office hours.
