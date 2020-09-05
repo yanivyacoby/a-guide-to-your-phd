@@ -16,7 +16,7 @@ but are about the soft-skills and mental aspects of the PhD process.
 In this workshop, we'll go over three sources of stress you may encounter in your PhD,
 and specifically within your first year:
 
-1. [What should you expect from yourself in your first year?](1.-what-should-you-expect-from-yourself-in-your-first-year?)
+1. [What should you expect from yourself in your first year?](#1.-what-should-you-expect-from-yourself-in-your-first-year?)
 2. What does your advisor expect from you in your first year?
 3. How can you be supportive of your peers?
 
