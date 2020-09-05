@@ -170,7 +170,6 @@ so you should expect to be getting constructive feedback!
 ## Effective communication in lab meetings
 
 Each advisor manages their lab differently.
-To better tailor your communication to you advisor / group meeting style, 
 > **We compiled a list of questions** we hope will be useful for you to think about 
 in order to better tailor your communication to you advisor / group meeting style:
 * What do kind of feedback do you need? (what questions do you have? where are you stuck? what is the next experiment to try?) and what do you need to tell your advisor to solicit this kind of feedback?
@@ -180,10 +179,11 @@ in order to better tailor your communication to you advisor / group meeting styl
 * How much time to you get to present for? 
 
 
-Problems in communication can results in a frustrated advisor (who may even think you don’t know what you’re doing, or that you’re not working hard!).
+Problems in communication may results in a frustrated advisor 
+(who may even think you don’t know what you’re doing, or that you’re not working hard!).
 They may also result in lack of useful feedback (and thus a frustrating / stagnant project). 
 
-> Although each advisor and lab are different, we hope you find some of the following strategies useful to improve your communication skills, 
+> **Here are some tips** we hope will be useful to you,
 whether it be for an hour-long presentation at your lab's group presentation, or for a quick 5-minute project update:
 * Ask your advisor and peers for feedback your presentation (even if its only a quick 5-min project update). Especially given time constraints, this can help you get the most out of your advisor and lab-mates. 
 * Summarize where you left off last meeting (ex. what hypotheses you were thinking about). Given these hypotheses, summarize what you agreed to do prior to this meeting. Lastly, give update -- make sure to synthesize the high-level conclusions (don’t just brain dump a bunch of figures and facts from your experiments). Lastly, propose a set of next steps and discuss.
