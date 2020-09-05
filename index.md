@@ -7,10 +7,9 @@ description: A guide from current to incoming students
 
 # About
 
-**Time/Date**
+**Date and time?**
 
-This workshop will take place virtually via zoom. Time/date TBD.
-
+This workshop will take place virtually via zoom. Date/time TBD.
 
 **What is this workshop about?**
 
@@ -25,7 +24,6 @@ Specifically, in the workshop we'll be discussing:
 **Who is this workshop for?**
 
 We especially encourage first-year PhD students in SEAS to come. All PhD students are welcome!
-
 
 **Who is organizing this workshop?**
 
@@ -43,10 +41,12 @@ The complete material can be found here.
 
 TODO.
 
+
 # Additional Resources
 
 TODO.
 
+
 # Contact Us
 
-E-mail (Yaniv Yacoby) yanivyacoby [AT] g [DOT] harvard [DOT] edu
+E-mail (Yaniv Yacoby): yanivyacoby [AT] g [DOT] harvard [DOT] edu
