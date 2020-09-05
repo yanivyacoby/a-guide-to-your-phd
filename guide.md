@@ -11,7 +11,7 @@ description: A guide from current to incoming students
 
 TODO.
 
-# What should you expect from yourself in your first year?
+# [1] What should you expect from yourself in your first year?
 
 One key aspect for success in your PhD is **knowing what is reasonable to expect of yourself at each stage of the program**.
 Since the PhD is a sort of apprenticeship to learn to become an independent researcher, 
@@ -95,4 +95,11 @@ They build a sequence of small-scale experiments,
 each with a clear hypothesis that can help determine the next best experiment to run. 
 Slowly and methodically, with negative results leading constructively to new hypotheses and experiments, 
 student B works up to a complete and publishable research project.
+
+As a take-away, especially in your first year, 
+we recommend focusing more on process and skills 
+(learning background material, principled experimental design, communicating effectively), 
+rather than on outcomes (ex. getting published).
+The specific set of skills you have to learn depends on your lab and advisor. For specifics, see Section 2.
+
 
