@@ -48,13 +48,19 @@ It is easy to feel like everyone else’s research projects are significantly mo
 and to forget that you can easily cause a peer to feel like their research is boring in comparison to your research. 
 
 **Staying excited:** _It is unreasonable to expect your day-to-day work to be exciting in the same sort of way the broader implications are exciting._
-The broader implications are tailored to excite excite both technical and non-technical people -- 
+The broader implications are tailored to excite everyone -- 
 anyone can get excited about a cure for cancer, a robot that walks, etc.
-Excitement about the day-to-day work comes from different sources; for some it may come from a deep curiosity for the particular 
+Excitement about the day-to-day work comes from different sources; 
+for some it may come from a deep curiosity for the particular 
 (and perhaps obscure) thing they are studying, for some the tasks themselves are enjoyable. 
 Investing the time to find what excites you most about your work can help you if you ever find yourself losing momentum.
 Most grad students will find themselves at least several times in their PhD unexcited about their project, and that is perfectly natural.
-_This sort of excitement is a skill one has to work on._
-We therefore recommend that if you start noticing yourself feeling this way, talk to your advisors and lab-mates and see what works for them!
+The good news is though, that **excitement is a skill** one can to work on.
+We therefore recommend that if you start noticing yourself feeling this way, 
+talk to your advisors and lab-mates and see what works for them!
+
+> Additional things to try include,
+* Switching between different research projects or between research and class-work when you feel like you are losing momentum (``productive procrastination''). 
+* Reminding yourself of how your research contributes to the bigger picture.
 
 
