@@ -290,7 +290,7 @@ or about their experiences in different parts of their career, etc.
 * Attend events organized by the [SEAS Graduate Council](https://gc.seas.harvard.edu/)
 (they are super friendly!) and/or events hosted by your department. 
 * Get involved in SEAS-wide initiatives (outreach, the SEAS Graduate Council, etc.). 
-* Meet with folks from [InTouch](https://intouch.seas.harvard.edu/),
+* Meet for a couple of virtual coffee with folks from [InTouch](https://intouch.seas.harvard.edu/),
 a student-founded peer-to-peer support network. 
 
 
