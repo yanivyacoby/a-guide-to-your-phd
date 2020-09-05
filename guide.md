@@ -260,8 +260,31 @@ The actual advising you will get from your advisor vs. your lab-mates is very la
 In some of the bigger labs, for instance, the advisor mostly helps with big-picture ideas 
 (ex. motivation, overall direction, etc.) and feedback on writing, 
 while lab-mates help hash-out technical issues, on-boarding of new techniques. 
-In other labs, the advisor is more involved with the technical details of each project. 
+In smaller labs, sometimes the advisor is more involved with the technical details of each project. 
 _It's always a good idea to ask your advisor and lab-mates who to ask each question!_
+
+**Your lab vs. the broader SEAS community -- who to ask for help?**
+Some it's helpful to get more perspectives than just your advisor's,
+whether on a technical problem, a life decision, support, etc.
+
+_Get to know [John Girash](https://scholar.harvard.edu/girash/home) 
+and [Ann Greaney-Williams](https://www.seas.harvard.edu/about-us/directory?search=%22Ann%20Greaney-Williams%22)_;
+they are TODO.
+
+> **How to get to know more faculty?**
+* You can take their classes and attend their office hours.
+* You can TA for them.
+* You can simply ask to meet with them (or knock on their door under non-COVID circumstances and ask if they have a few minutes to chat),
+introduce yourself, and ask them some questions.
+You can, for example, ask them questions about a paper they wrote, big-picture questions,
+or about their experiences in different parts of their career, etc.
+
+> **How to get to know more students?**
+* You can take classes and work in teams.
+* Attend events organized by the [SEAS Graduate Council](https://gc.seas.harvard.edu/)
+(they are super friendly!) and/or events hosted by your department. 
+* Get involved in SEAS-wide initiative (outreach, the SEAS Graduate Council, etc.). 
+
 
 
 ## Lab logistics
