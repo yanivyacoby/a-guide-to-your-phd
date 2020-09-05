@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to make the most of your PhD?
+title: How to make the most out of your PhD?
 description: A guide from current to incoming students
 ---
 
@@ -23,12 +23,14 @@ You will learn how to build a more supportive and healthier community by helping
 
 **Who is organizing this workshop?**
 
-TODO
+Current PhD students, staff and professors who deeply care about
+creating a healthy and welcoming environment for all students. 
+You can find a full list [below](#organizers).
 
 
 # Material
 
 
-# Acknowledgements 
+# Organizers    
 
 TODO.
