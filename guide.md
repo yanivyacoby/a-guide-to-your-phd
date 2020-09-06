@@ -107,7 +107,7 @@ They then find that they cannot process these negative results constructively, b
 > **Example of a productive research process:**
 In contrast, consider student B, who does not compare themselves with more senior students and thus 
 does not expect themselves to complete the whole project in one step.
-Instead, they follow the advice of their advisor and try to understand where that advice is coming from, (even when it might seem annoying / tedious). 
+Instead, they follow the advice of their advisor (and try to understand where that advice is coming from). 
 They build a sequence of small-scale experiments, 
 each with a clear hypothesis that can help determine the next best experiment to run. 
 Slowly and methodically, with negative results leading constructively to new hypotheses and experiments, 
