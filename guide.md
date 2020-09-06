@@ -89,7 +89,7 @@ publish lots of papers, collaborate with lots of people,
 have a good work/life balance, etc.
 Unfortunately, PhDs take a long time to complete for a good reason: 
 you are not expected to come in with these skills -- you are expected to develop them over the course of the PhD.
-While comparing yourself with more experienced students you admire may help you set goals, there is also a danger in doing that:
+While comparing yourself with more experienced students may help you set goals, there is also a danger in doing that:
 _it is easy to only notice their outcomes (exciting progress on research, insightful ideas) 
 and forget that it took them conscious hard work over several years to get there._
 
