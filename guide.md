@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to make the most out of your PhD?
+title: How to make the most out of your PhD
 description: A guide from current to incoming students
 ---
 
@@ -180,6 +180,17 @@ it does not mean your advisor thinks you’re doomed to fail --
 it means your advisor is trying to help you develop as a researcher.
 In short, you are not expected to start out knowing everything, 
 so you should expect to be getting constructive feedback! 
+
+**Communicating about communication:**
+Some time it's hard to gauge whether you're updating your advisor too much or too little, 
+what topics do they want to be updated on more frequently, etc. 
+When in doubt, we encourage you to simply ask your advisor. 
+It may seem weird/awkward at first, but from our experience, advisors appreciate straight-forward communication.
+
+> **Some questions you may have include:**
+* How many slack messages are too many?
+* If I have big-picture questions about the project before our regular meeting, should I message you about them?
+* If I have technical questions about the project before our regular meeting, should we find a time to chat about those?
 
 
 ## Effective communication in lab meetings
