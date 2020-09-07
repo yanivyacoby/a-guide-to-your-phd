@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to make the most out of your PhD?
+title: How to make the most out of your PhD
 description: A guide from current to incoming students
 ---
 
