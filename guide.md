@@ -337,7 +337,7 @@ Even in the most ordinary hallway interaction -- when you're asked "how are you?
 We encourage you to be as honest as you feel comfortable about your experience; 
 if you are having a bad week, tell your friend about it -- don't just answer "I'm fine, how are you?". 
 If everyone contributed a real vulnerability, no one has to feel like they are the only one struggling, 
-and everyone can realize that most students are facing the same difficulties.
+and everyone can realize that many their peers are facing similar difficulties.
 Moreover, if you lead with a real vulnerability, your friend might reciprocate and give you a chance to be supportive. 
 
 **Validate:**
