@@ -27,7 +27,7 @@ We especially encourage first-year PhD students in SEAS to come. All PhD student
 
 **Who is organizing this workshop?**
 
-Current PhD students, staff, and faculty who deeply care about
+Current PhD students, staff, administrators and faculty who deeply care about
 creating a healthy and welcoming environment for all students. 
 You can find a full list of organizers [below](#organizers).
 
