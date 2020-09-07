@@ -182,7 +182,7 @@ In short, you are not expected to start out knowing everything,
 so you should expect to be getting constructive feedback! 
 
 **Communicating about communication:**
-Some time it's hard to gauge whether you're updating your advisor too much or too little, 
+Sometime it's hard to gauge whether you're updating your advisor too much or too little, 
 what topics do they want to be updated on more frequently, etc. 
 When in doubt, we encourage you to simply ask your advisor. 
 It may seem weird/awkward at first, but from our experience, advisors appreciate straight-forward communication.
