@@ -246,7 +246,7 @@ able to propose and carry out research projects on your own.
 
 Although each advisor is different, especially in your first year, we recommend that if they suggest an experiment for you to try, 
 you ask enough questions to understand **why** they made their suggestion, and then you try it.
-We make this recommendation for two reasons: (1) it is important to be respectful of your advisors research experience -- 
+We make this recommendation for two reasons: (1) it is important to be respectful of your advisor's research experience -- 
 there is a good reason why they suggested the experiment, and (2) trying out their experiment and understanding it has pedagogical value --
 after all, you're here to learn how to do research from them. 
 After you try their experiment, we further recommend you synthesize the results (i.e. don't just present some figures -- what do the results imply?),
