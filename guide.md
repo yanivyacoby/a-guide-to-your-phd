@@ -107,7 +107,7 @@ They then find that they cannot process these negative results constructively, b
 > **Example of a productive research process:**
 In contrast, consider student B, who does not compare themselves with more senior students and thus 
 does not expect themselves to complete the whole project in one step.
-Instead, they follow the advice of their advisor (and try to understand where that advice is coming from). 
+Instead, they follow their advisor's advice (and try to understand where that advice is coming from). 
 They build a sequence of small-scale experiments, 
 each with a clear hypothesis that can help determine the next best experiment to run. 
 Slowly and methodically, with negative results leading constructively to new hypotheses and experiments, 
@@ -236,19 +236,22 @@ Since each lab is different, we recommend asking your advisor, as well as your l
 
 Does your advisor prefer for you to be completely independent in determining which project to pick and what experiment to try next? 
 or do they prefer for you to work on projects they select and carry out the experiments they think are best to try next?
-Each advisor is different and will likely prefer some balance of the two.
-This balance will also likely change over the course of the program.
+While each advisor is different,
+in the initial stages of your program it is more likely that your advisor will pick a project for you (or give you several options to choose from),
+and that most of the insights and ideas will come from them.
+This makes sense, since they have years of experience as researchers, and you're just starting.
+As you continue in the program the balance will shift: you will become more and more independent,
+provide more ideas and insights, until eventually you will become more of a colleague than a student,
+able to propose and carry out research projects on your own.
 
-> For example, some advisors will choose your first project for you (or give you several options to choose from), 
-but give you more agency over the direction of your research as your understanding of the field develops. 
-
-Although each advisor is different, we do recommend that if they suggest an experiment for you to try, 
+Although each advisor is different, especially in your first year, we recommend that if they suggest an experiment for you to try, 
 you ask enough questions to understand **why** they made their suggestion, and then you try it.
-We recommend you try it for two reasons: (1) it is important to be respectful of your advisors research experience -- 
-there is a good reason why they suggested the experiment, and (2) trying out their experiment and understanding it has pedagogical value. 
-After you try their experiment, we further recommend you synthesize the results (i.e. what do the results imply?),
+We make this recommendation for two reasons: (1) it is important to be respectful of your advisors research experience -- 
+there is a good reason why they suggested the experiment, and (2) trying out their experiment and understanding it has pedagogical value --
+after all, you're here to learn how to do research from them. 
+After you try their experiment, we further recommend you synthesize the results (i.e. don't just present some figures -- what do the results imply?),
 propose a next step to your advisor for feedback, and reach a mutual agreement about what to actually do next.
-This feedback will give you practice driving your own research independently and show your advisor initiative. 
+This feedback is key to learning how to more a research project forward. 
 
 
 ## Asking for help
