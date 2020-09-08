@@ -172,8 +172,7 @@ As such, we recommend to periodically (every several weeks) schedule a one-on-on
 Asking for feedback will (1) help you **stay focused** and improve more quickly, 
 (2) show your advisor **initiative** and desire to improve, and lastly, 
 (3) it will help **prevent miscommunication** / never leave you 
-uncertain about whether your advisor is happy/unhappy with you 
-(ex. you would expect to pass your qualifying exam since you were proactive about improving in all the necessary areas).
+uncertain about whether your advisor is happy/unhappy with you.
 
 Since you are just starting your PhD, be ready to get some constructive (and maybe negative-sounding) feedback -- 
 it does not mean your advisor thinks you’re doomed to fail -- 
@@ -199,19 +198,20 @@ Each advisor manages their lab differently.
 > **We compiled a list of questions** we hope will be useful for you to think about 
 in order to better tailor your communication to you advisor / group meeting style:
 * What do kind of feedback do you need? (what questions do you have? where are you stuck? what is the next experiment to try?) and what do you need to tell your advisor to solicit this kind of feedback?
-* What does your advisor need to hear about the project so they can help stir the project in the directions needed for their constraints (grand funding, collaboration agreements, personal interests, etc.)? 
+* What does your advisor need to hear about the project so they can help steer the project in the directions needed for their constraints (grant funding, collaboration agreements, personal interests, etc.)? 
 * Does your advisor remember exactly what you agreed on in the last meeting? or do they need a quick summary of the state of the project and what was agreed upon the previous meeting?
 * Are there others in the meeting who do not work on your project? What kind of feedback do you need from them? What do they need from you to feel included in the conversation? 
-* How much time to you get to present for? 
+* How much time do you get to present for? 
 
 
 Problems in communication may results in a frustrated advisor 
 (who may even think you don’t know what you’re doing, or that you’re not working hard!).
 They may also result in lack of useful feedback (and thus a frustrating / stagnant project). 
 
-> **Here are some tips** we hope will be useful to you,
+> **Tips for effective communication.** 
+We hope that some combination of the following tips will be useful to you,
 whether it be for an hour-long presentation at your lab's group presentation, or for a quick 5-minute project update:
-* Ask your advisor and peers for feedback your presentation (even if its only a quick 5-min project update). Especially given time constraints, this can help you get the most out of your advisor and lab-mates. 
+* Ask your advisor and peers for feedback on your presentation (even if its only a quick 5-min project update). Especially given time constraints, this can help you get the most out of your advisor and lab-mates. 
 * Summarize where you left off last meeting (ex. what hypotheses you were thinking about). Given these hypotheses, summarize what you agreed to do prior to this meeting. Lastly, give update -- make sure to synthesize the high-level conclusions (don’t just brain dump a bunch of figures and facts from your experiments). Lastly, propose a set of next steps and discuss.
 * Before the end of the meeting, agree on the next steps to pursue together (that way you know exactly what your advisor expects from you and you can make sure you didn't spent a bunch of time working on something that isn't useful). Alternatively/additionally, after the meeting you can summarize the meeting and conclusions in email/slack. 
 * Find an organizational method to keep track of discussion in the meetings.
@@ -228,7 +228,7 @@ Since each lab is different, we recommend asking your advisor, as well as your l
 
 > **These questions include,**
 * What is the fundamental set of skills necessary to learn to be a productive member of lab? Which of these skills is the highest priority? and how can I learn it most effectively?
-* What classes do you recommend I take that would be useful for my research / to broader my understanding of related fields?
+* What classes do you recommend I take that would be useful for my research / to broaden my understanding of related fields?
 * Are there specific related work you recommend I read for my project? What is your strategy for reading research papers?
 
 
@@ -256,7 +256,7 @@ This feedback will give you practice driving your own research independently and
 Knowing **when to ask for help**, 
 and learning to **feel comfortable asking for help**
 are both important skills.
-Many grad students do not feel comfortable asking their advisor or their peers help, 
+Many grad students do not feel comfortable asking their advisor or their peers for help, 
 and while it is good to try to hash out problems on your own, it is important to know **when to stop and to ask for help**. 
 
 **Asking "good" questions:**
@@ -277,7 +277,7 @@ In smaller labs, sometimes the advisor is more involved with the technical detai
 _It's always a good idea to ask your advisor and lab-mates who to ask each question!_
 
 **Your lab vs. the broader SEAS community -- who to ask for help?**
-Some it's helpful to get more perspectives than just your advisor's,
+Sometime it's helpful to get more perspectives than just your advisor's,
 whether on a technical problem, a life decision, support, etc.
 
 _We encourage you to get to know [John Girash](https://scholar.harvard.edu/girash/home) 
@@ -297,7 +297,7 @@ You can, for example, ask them questions about a paper they wrote, big-picture q
 or about their experiences in different parts of their career, etc.
 
 > **How to get to know more students?**
-* You can take classes and work in teams.
+* Work in teams on class homework / projects. 
 * Attend events organized by the [SEAS Graduate Council](https://gc.seas.harvard.edu/)
 (they are super friendly!) and/or events hosted by your department. 
 * Get involved in SEAS-wide initiatives (outreach, the SEAS Graduate Council, etc.). 
@@ -325,12 +325,12 @@ to make sure you know what's expected of you.
 * Does your advisor need to approve your poster? 
 * Does your advisor need to approve your spotlight presentation / contributed talk? 
 * What is the etiquette for representing your collaborators' work? 
-* What is the etiquette when discussion future work with non lab-folks? (how much is appropriate to disclose?). 
+* What is the etiquette when discussing future work with non lab-folks? (how much is appropriate to disclose?). 
 
 > **Vacations:**
 * How long in advance does your advisor need to know about your vacation? 
 * How long is a reasonable vacation? or does it not matter so much so long as you are on-top of your lab duties? 
-* When is reasonable to take a vacation? (ex. Anytime? right after a deadline? to try to align it when your advisor is away?) 
+* When is reasonable to take a vacation? (ex. Anytime? right after a deadline? to try to align it with when your advisor is away?) 
 
 
 <a name="part3"></a>
@@ -348,7 +348,7 @@ Even in the most ordinary hallway interaction -- when you're asked "how are you?
 We encourage you to be as honest as you feel comfortable about your experience; 
 if you are having a bad week, tell your friend about it -- don't just answer "I'm fine, how are you?". 
 If everyone contributed a real vulnerability, no one has to feel like they are the only one struggling, 
-and everyone can realize that many their peers are facing similar difficulties.
+and everyone can realize that many of their peers are facing similar difficulties.
 Moreover, if you lead with a real vulnerability, your friend might reciprocate and give you a chance to be supportive. 
 
 **Validate:**
