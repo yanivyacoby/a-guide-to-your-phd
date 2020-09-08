@@ -13,13 +13,19 @@ This workshop will take place virtually via zoom. Date/time TBD.
 
 **What is this workshop about?**
 
-The workshop highlights three broad sources of pressure that many PhD students experience, 
-particularly in their first year,
-as well as concrete and actionable tips to alleviate these pressures.
-Specifically, in the workshop we'll be discussing:
-1. What are reasonable vs. unreasonable expectations you may have for yourself?
-2. Understanding and managing your relationship with your advisor
-3. Creating a more supportive and healthier community
+When pursuing a PhD, you will face many challenges.
+Oftentimes these challenges don't come from the places where you expect;
+specifically, many of the challenges are not about the technical work you'll do in your PhD,
+but are about the soft-skills and mental aspects of the PhD process.
+In this workshop, we'll go over three sources of stress you may encounter in your PhD,
+and especially within your first year:
+
+1. What should you expect from yourself in your first year?
+2. What does your advisor expect from you in your first year?
+3. How can you be supportive of your peers?
+
+In this workshop, we will also give you tips and advice that we hope will help you
+answer the above questions for your personal situations. 
 
 **Who is this workshop for?**
 
