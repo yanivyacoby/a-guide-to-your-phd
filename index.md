@@ -43,7 +43,7 @@ You can find a full list of organizers [below](#organizers).
 
 # Missed the Workshop? Need a refresher?
 
-Don't worry! The complete workshop materials can be found [here](./guide.html).
+Don't worry! **The complete workshop materials can be found [here](./guide.html).**
 
 
 # Organizers    
