@@ -9,7 +9,10 @@ description: A guide from current to incoming students
 
 **Date and time?**
 
-This workshop will take place virtually via zoom. Date/time TBD.
+This workshop will take place virtually via zoom. 
+Date/time TBD.
+The workshop duration is 75min. 
+
 
 **What is this workshop about?**
 
