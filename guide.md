@@ -191,6 +191,7 @@ It may seem weird/awkward at first, but from our experience, advisors appreciate
 * If I have big-picture questions about the project before our regular meeting, should I message you about them?
 * If I have technical questions about the project before our regular meeting, should we find a time to chat about those?
 
+Asking these questions once can help put your mind at ease. 
 
 ## Effective communication in lab meetings
 
