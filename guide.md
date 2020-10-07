@@ -404,7 +404,7 @@ Some of your peers may encounter unsympathetic or even hateful attitudes about t
 * ["Those invisible barriers are real": The Progression of First-Generation Students Through Doctoral Education](https://mcnair.siu.edu/_common/documents/univ-401a/the-progression-of-first-gen-students-through-doctoral-education.pdf)
 * [Challenging Technical Privilege: How Race and Gender Matter](https://challengingtechnicalprivilege.weebly.com/)
 * [Why Are Some STEM Fields More Gender Balanced Than Others?](https://research.chicagobooth.edu/-/media/research/cdr/docs/cheryan-paper-1.aspx)
-* Readings from the Harvard IACS's course on [Diversity, Inclusion and Leadership in Tech](https://onefishy.github.io/DIL_in_tech/reading_list.html)
+* Readings from the Harvard IACS course on [Diversity, Inclusion and Leadership in Tech](https://onefishy.github.io/DIL_in_tech/reading_list.html)
 
 In order for us to create a supportive and welcoming community, we all need to share in the burden shouldered by every member of our community -- working together to understand and address the challenges facing each of us creates a better environment for everyone. 
 
