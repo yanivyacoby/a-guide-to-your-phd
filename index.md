@@ -49,24 +49,24 @@ Don't worry! **The complete workshop materials can be found [here](./guide.html)
 # Organizers    
 
 <table>
-<tbody>
-<tr>
-<td>Organizer / content developer</td>
-<td>Yaniv Yacoby</td>
-</tr>
-<tr>
-<td>Contributers to content</td>
-<td>Clark Teeple, Finale Doshi-Velez, Ike Lage, John Girash, Thomas Plumb-Reyes, Weiwei Pan</td>
-</tr>
-<tr>
-<td>Logistics and organization</td>
-<td>Ann Greaney-Williams, Rachel Zoll, Susan Forrest, William Qian</td>
-</tr>
-<tr>
-<td>Breakout-room mentors</td>
-<td>TBD</td>
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td><b>Organizer / content developer</b></td>
+      <td>Yaniv Yacoby</td>
+    </tr>
+    <tr>
+      <td><b>Feedback & contribution to content</b></td>
+      <td>Clark Teeple, Finale Doshi-Velez, Ike Lage, John Girash, Thomas Plumb-Reyes, Weiwei Pan</td>
+    </tr>
+    <tr>
+      <td><b>Logistics and organization</b></td>
+      <td>Ann Greaney-Williams, Rachel Zoll, Susan Forrest, William Qian</td>
+    </tr>
+    <tr>
+      <td><b>Breakout-room mentors</b></td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
 </table>
 
 
