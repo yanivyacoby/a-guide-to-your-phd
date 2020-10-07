@@ -51,16 +51,16 @@ Don't worry! **The complete workshop materials can be found [here](./guide.html)
 <table>
   <tbody>
     <tr>
-      <td><b>Organizer / content developer</b></td>
+      <td><b>Organizer & content developer</b></td>
       <td>Yaniv Yacoby</td>
     </tr>
     <tr>
-      <td><b>Feedback & contribution to content</b></td>
+      <td><b>Content contributors</b></td>
       <td>Clark Teeple, Finale Doshi-Velez, Ike Lage, John Girash, Thomas Plumb-Reyes, Weiwei Pan</td>
     </tr>
     <tr>
-      <td><b>Logistics and organization</b></td>
-      <td>Ann Greaney-Williams, Rachel Zoll, Susan Forrest, William Qian</td>
+      <td><b>Organizational logistics</b></td>
+      <td>Ann Greaney-Williams, Clark Teeple, John Girash, Rachel Zoll, Susan Forrest, William Qian</td>
     </tr>
     <tr>
       <td><b>Breakout-room mentors</b></td>
