@@ -23,7 +23,7 @@ and especially within your first year:
 We will then give you tips and advice that we hope will help you
 answer the above questions for your personal situations. 
 
-We acknowledge that students from underrepresented minority groups (URM students) face additional challenges. While we hope to (very broadly) address some of these challenges here, this topic is diverse and deep, and therefore warrants its own workshop. We hope to run a workshop solely about challenges faced by URM PhD students next year. 
+We acknowledge that students from underrepresented minority groups (URM students) face additional challenges. While we hope to (very broadly) address some of these challenges here with concrete advice and a (non-exhaustive) list of resources, this is a diverse and deep topic that warrants its own workshop(s). We hope to run a workshop solely about challenges faced by URM PhD students next year. Lastly, we hope that this workshop provides non-URM students with a starting point for understanding issues that are faced by their URM peers. 
 
 
 
