@@ -23,6 +23,9 @@ and especially within your first year:
 We will then give you tips and advice that we hope will help you
 answer the above questions for your personal situations. 
 
+We acknowledge that students from underrepresented minority groups (URM students) face additional challenges. While we hope to (very broadly) address some of these challenges here, this topic is diverse and deep, and therefore warrants its own workshop. We hope to run a workshop solely about challenges faced by URM students during their PhD next year. 
+
+
 
 <a name="part1"></a>
 # 1. What should you expect from yourself in your first year?
@@ -137,6 +140,23 @@ we recommend you focus on learning and not on grades.
 * Try to align class projects with research -- some professors let you even combine your research with the class project.
 * Take a research course with your advisor (ex. CS299r in Computer Science, AM299r in Applied Math, etc.), since in some departments you can count that as a class.
 * Since classes have more defined expectations and research is open ended, it’s easy to pour more time into classes than into research. You can try setting limits on how much time you spend on each class per week. 
+
+
+## Balancing work and life
+
+One challenging aspect of your PhD is the often-nebulous boundaries of graduate school work; between classes, research, publications, managing relationships with collaborations, etc., it always feels like there’s one more work-related thing you can do. This makes it challenging to balance work with life. Work/life balance, however, should not just be a cliche or a fantasy! It’s really important to take care of yourself throughout your PhD (yes, as important as your research). Most students have hobbies they are serious about, strong ties to their communities, a social and/or family life, etc. We can be well-rounded and complete individuals with a life outside of work (just like many of our professors).
+
+Sometimes your advisor may offer you a professional opportunity outside of your current research (e.g. helping organize a conference, mentoring students) or may ask you if you have extra cycles to pitch in on a different project. In these situations, if you are already feeling overwhelmed by your existing commitments, it is important that you communicate that with your advisor. For example, it is very reasonable to tell your advisor that you are feeling overwhelmed by your existing commitments, and to ask them whether (a) it is possible for you to wrap up existing projects before committing to new ones, or (b) that you are happy to take on these new commitments if they are ok with you putting existing ones on the backburner. 
+
+
+## Students Coming from Underrepresented Minority (URM) Groups
+
+If you are not a URM student, it may feel like that the image of a "good scientist" or a "good engineer" is aligned with your social, cultural and personal identities, but if you are a URM student, it may feel like being a "good scientist" or a "good engineer" requires you to suppress important aspects of yourself, because these concepts are often constructed in popular and academic culture in biased and exclusive terms. Furthermore, if you are from an underrepresented minority group, you may not see people like you represented in your lab, classrooms and the professionals in your field, and you may be more likely to suffer from imposter syndrome and encounter implicit bias in your career. **You are not expected to deal with these challenges on your own.**
+
+We strongly encourage you to **find your community**. You may not find many other people in your lab or your classroom who share in your non-professional identities and interests, but they do exist and they want to meet you too! A network of mentors and allies can help you make a place in your field where you can be yourself, help you process difficult experiences, as well as help you address the specific issues you may face in the classroom, lab or generally in grad life. We encourage you to seek out graduate student clubs, organizations or other events based on your identity or affinity, and work out your social muscles alongside your intellectual ones. 
+
+Examples of organizations include: GSAS Society of Underrepresented Students in STEM (GSUSS), Harvard Graduate Women in Science and Engineering (HGWISE), Harvard LGBTQ@GSAS Association, W.E.B. DuBois Graduate Society. See [this page](https://gsas.harvard.edu/diversity/student-groups) for a more complete list of groups focused on diversity issues and the [Engage website](https://engage.gsas.harvard.edu/organizations) to explore all GSAS student groups. You can use these groups simply for having fun and making friends. You can also use them to find a wider, more diverse network for advice and support on research and advisor questions, picking classes and balancing coursework, housing, navigating Harvard bureaucracy, etc. 
+
 
 
 <a name="part2"></a>
