@@ -48,12 +48,11 @@ Don't worry! **The complete workshop materials can be found [here](./guide.html)
 
 # Organizers    
 
-TODO.
+| foo | bar |
+| --- | --- |
+| baz | bim |
 
 
-# Additional Resources
-
-TODO.
 
 
 # Contact Us
