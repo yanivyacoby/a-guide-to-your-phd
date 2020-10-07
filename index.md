@@ -48,10 +48,18 @@ Don't worry! **The complete workshop materials can be found [here](./guide.html)
 
 # Organizers    
 
-| foo | bar |
-| --- | --- |
-| baz | bim |
-
+<table>
+<tbody>
+<tr>
+<td>Main Organizer / Content Developer</td>
+<td>Yaniv Yacoby</td>
+</tr>
+<tr>
+<td>Contributers to Content</td>
+<td>Clark Teeple, Ike Lage, John Girash, Thomas Plumb-Reyes</td>
+</tr>
+</tbody>
+</table>
 
 
 
