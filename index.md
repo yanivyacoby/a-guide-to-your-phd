@@ -51,20 +51,20 @@ Don't worry! **The complete workshop materials can be found [here](./guide.html)
 <table>
 <tbody>
 <tr>
-<td>Main organizer / content developer</td>
+<td>Organizer / content developer</td>
 <td>Yaniv Yacoby</td>
 </tr>
 <tr>
 <td>Contributers to content</td>
-<td>Clark Teeple, Ike Lage, John Girash, Thomas Plumb-Reyes, Weiwei Pan</td>
-</tr>
-<tr>
-<td>Insights and feedback</td>
-<td>Finale Doshi-Velez</td>
+<td>Clark Teeple, Finale Doshi-Velez, Ike Lage, John Girash, Thomas Plumb-Reyes, Weiwei Pan</td>
 </tr>
 <tr>
 <td>Logistics and organization</td>
 <td>Ann Greaney-Williams, Rachel Zoll, Susan Forrest, William Qian</td>
+</tr>
+<tr>
+<td>Breakout-room mentors</td>
+<td>TBD</td>
 </tr>
 </tbody>
 </table>
