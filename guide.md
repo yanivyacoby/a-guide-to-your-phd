@@ -357,6 +357,12 @@ to make sure you know what's expected of you.
 * When is reasonable to take a vacation? (ex. Anytime? right after a deadline? to try to align it with when your advisor is away?) 
 
 
+## Communicating with your advisor about issues faced by URM students
+
+If you are a URM student, you may find yourself needing to have a difficult conversation with your advisor about an issue specific to you as a URM student. Perhaps you’re nervous about how to broach the topic with your advisor? Maybe you’re not sure how to ask for the support that you need? We hope that in these situations, you will be able to call on your social support network, campus-wide affinity groups, professional affinity groups, etc. -- your mentors and colleagues in these communities may have had similar experiences that can help inform your approach to discussing sensitive topics with your advisor.
+
+
+
 <a name="part3"></a>
 # 3. How can you be supportive of your peers?
 
