@@ -421,4 +421,5 @@ and have an open discussion with your advisor about what they expect from you.
 
 **Support your peers.** 
 Regularly check on your peers, show them that just like them, you don't have everything figured out.
+Take the time to educate yourself on challenges faced by your peers from underrepresented minority groups.
 
