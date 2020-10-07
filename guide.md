@@ -125,7 +125,7 @@ The specific set of skills you have to learn depends on your lab and advisor. Fo
 Coming especially directly from undergrad/master's, you may feel compelled to treat classes like you did before -- 
 that is, you may feel that getting good grades and taking hard classes reflects your success in the program,
 and may further help get you a good position when you graduate.
-In grad school, this is only partially true.
+In your PhD, this is only partially true.
 If you're applying to fellowships, then grades do matter, but the difficulty of the classes does not necessarily matter.
 Aside from that, however, _the emphasis is not on grades and classes, but on research_.
 Therefore, so long as you learn the skills and tools necessary to do your research (as per your advisor's recommendation), 
