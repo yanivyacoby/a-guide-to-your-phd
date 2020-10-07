@@ -149,7 +149,7 @@ One challenging aspect of your PhD is the often-nebulous boundaries of graduate 
 Sometimes your advisor may offer you a professional opportunity outside of your current research (e.g. helping organize a conference, mentoring students) or may ask you if you have extra cycles to pitch in on a different project. In these situations, if you are already feeling overwhelmed by your existing commitments, it is important that you communicate that with your advisor. For example, it is very reasonable to tell your advisor that you are feeling overwhelmed by your existing commitments, and to ask them whether (a) it is possible for you to wrap up existing projects before committing to new ones, or (b) that you are happy to take on these new commitments if they are ok with you putting existing ones on the backburner. 
 
 
-## Students Coming from Underrepresented Minority (URM) Groups
+## Students from Underrepresented Minority (URM) Groups
 
 If you are not a URM student, it may feel like that the image of a "good scientist" or a "good engineer" is aligned with your social, cultural and personal identities, but if you are a URM student, it may feel like being a "good scientist" or a "good engineer" requires you to suppress important aspects of yourself, because these concepts are often constructed in popular and academic culture in biased and exclusive terms. Furthermore, if you are from an underrepresented minority group, you may not see people like you represented in your lab, classrooms and the professionals in your field, and you may be more likely to suffer from imposter syndrome and encounter implicit bias in your career. **You are not expected to deal with these challenges on your own.**
 
@@ -357,7 +357,7 @@ to make sure you know what's expected of you.
 * When is reasonable to take a vacation? (ex. Anytime? right after a deadline? to try to align it with when your advisor is away?) 
 
 
-## Communicating with your advisor about issues faced by URM students
+## Communication about Issues faced by Students from Underrepresented Minority (URM) Groups
 
 If you are a URM student, you may find yourself needing to have a difficult conversation with your advisor about an issue specific to you as a URM student. Perhaps you’re nervous about how to broach the topic with your advisor? Maybe you’re not sure how to ask for the support that you need? We hope that in these situations, you will be able to call on your social support network, campus-wide affinity groups, professional affinity groups, etc. -- your mentors and colleagues in these communities may have had similar experiences that can help inform your approach to discussing sensitive topics with your advisor.
 
@@ -392,7 +392,7 @@ And if you're asked for advice, then by all means say what you think!
 **Regularly check up on your peers:**
 Ask your friends how they are doing, meet them for a zoom or socially distanced cup of coffee. 
 
-**Supporting your URM peers:**
+**Supporting your peers from underrepresented minority (URM) groups:**
 Stress in graduate school is near ubiquitous, but some stresses, like stereotype threat, are unique to the background and lived experiences of those who feel them. Recognizing and understanding these stresses that many URM students experience can help you be a better colleague, mentor, peer and friend. 
 
 Be sensitive to the time/emotional burden that often falls disproportionately on URM students to advocate for themselves and educate their peers on social issues on top of their professional responsibilities as PhD students. A good starting place is to proactively try to understand these issues through reading and reflection. 
