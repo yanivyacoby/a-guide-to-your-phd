@@ -394,10 +394,17 @@ Ask your friends how they are doing, meet them for a zoom or socially distanced 
 
 **Supporting your peers from underrepresented minority (URM) groups:**
 Stress in graduate school is near ubiquitous, but some stresses, like stereotype threat, are unique to the background and lived experiences of those who feel them. Recognizing and understanding these stresses that many URM students experience can help you be a better colleague, mentor, peer and friend. 
-
 Be sensitive to the time/emotional burden that often falls disproportionately on URM students to advocate for themselves and educate their peers on social issues on top of their professional responsibilities as PhD students. A good starting place is to proactively try to understand these issues through reading and reflection. 
-
 Some of your peers may encounter unsympathetic or even hateful attitudes about their identity during their PhD. If you’re a bystander, speak up -- it can be really difficult or scary to speak up for oneself in the moment and extremely isolating afterward if no one else intervened. Discrimination may not take the forms of words or actions with a clear target, but rather be embedded in systems and processes that can still harm your peers based on their identities. Pay attention and speak up whenever and however you can. If you want to be a more direct part of that effort you can join the union, the graduate student council, a graduate student group or help with events or workshops like this one. 
+
+> Some readings you may find useful include:
+* [Mentoring Underrepresented Students in STEMM: Why Do Identities Matter?](https://www.nap.edu/read/25568/chapter/5)
+* [Silent Technical Privilege](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html)
+* [On Technical Entitlement](https://medium.com/tales-from-the-front/on-technical-entitlement-cc9ed433ec3c)
+* ["Those invisible barriers are real": The Progression of First-Generation Students Through Doctoral Education](https://mcnair.siu.edu/_common/documents/univ-401a/the-progression-of-first-gen-students-through-doctoral-education.pdf)
+* [Challenging Technical Privilege: How Race and Gender Matter](https://challengingtechnicalprivilege.weebly.com/)
+* [Why Are Some STEM Fields More Gender Balanced Than Others?](https://research.chicagobooth.edu/-/media/research/cdr/docs/cheryan-paper-1.aspx)
+* Readings from the Harvard IACS's course on [Diversity, Inclusion and Leadership in Tech](https://onefishy.github.io/DIL_in_tech/reading_list.html)
 
 In order for us to create a supportive and welcoming community, we all need to share in the burden shouldered by every member of our community -- working together to understand and address the challenges facing each of us creates a better environment for everyone. 
 
