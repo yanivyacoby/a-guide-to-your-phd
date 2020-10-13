@@ -9,9 +9,8 @@ description: A guide from current to incoming students
 
 **Date and time?**
 
-This workshop will take place virtually via zoom on Monday October 26, 2020 at 8pm (Boston time).
+This workshop will take place virtually via zoom on Monday October 26, 2020 at 8-9:15pm (Boston time).
 Please RSVP to the workshop [here](https://harvard.zoom.us/meeting/register/tJMkfu6pqDwtH9wM0f06y3sRmOq6hX5mn-sq) using your _Harvard email address_.
-The workshop is approximately 75min long. 
 
 
 **What is this workshop about?**
