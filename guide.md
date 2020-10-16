@@ -4,7 +4,7 @@ title: How to make the most out of your PhD
 description: A guide from current to incoming students
 ---
 
-[back to the workshop info](./)
+[back to the Workshop's Main Page](./)
 
 
 # Introduction
