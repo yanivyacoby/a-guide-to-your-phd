@@ -428,7 +428,7 @@ Take the time to educate yourself on challenges faced by your peers from underre
 # Additional Readings
 
 If you're looking for additional perspectives and thoughts about the PhD process, 
-some students have found the following readings useful:
+some of us have found the following readings useful:
 * [Getting What You Came For: The Smart Student's Guide to Earning a Master's or Ph.D.](https://www.goodreads.com/book/show/460669.Getting_What_You_Came_For?ac=1&from_search=true&qid=Hcjum6Bb4o&rank=4) 
 * [A Field Guide to Grad School: Uncovering the Hidden Curriculum](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school)
 * [A PhD Is Not Enough: A Guide To Survival In Science](https://www.goodreads.com/book/show/587478.A_PhD_Is_Not_Enough?ac=1&from_search=true&qid=bDPkU7m8YU&rank=5)
