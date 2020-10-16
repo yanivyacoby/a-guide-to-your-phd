@@ -392,7 +392,7 @@ And if you're asked for advice, then by all means say what you think!
 **Regularly check up on your peers:**
 Ask your friends how they are doing, meet them for a zoom or socially distanced cup of coffee. 
 
-**Supporting your peers from underrepresented minority (URM) groups:**
+**Support your peers from underrepresented minority (URM) groups:**
 Stress in graduate school is near ubiquitous, but some stresses, like stereotype threat, are unique to the background and lived experiences of those who feel them. Recognizing and understanding these stresses that many URM students experience can help you be a better colleague, mentor, peer and friend. 
 Be sensitive to the time/emotional burden that often falls disproportionately on URM students to advocate for themselves and educate their peers on social issues on top of their professional responsibilities as PhD students. A good starting place is to proactively try to understand these issues through reading and reflection. 
 Some of your peers may encounter unsympathetic or even hateful attitudes about their identity during their PhD. If you’re a bystander, speak up -- it can be really difficult or scary to speak up for oneself in the moment and extremely isolating afterward if no one else intervened. Discrimination may not take the forms of words or actions with a clear target, but rather be embedded in systems and processes that can still harm your peers based on their identities. Pay attention and speak up whenever and however you can. If you want to be a more direct part of that effort you can join the union, the graduate student council, a graduate student group or help with events or workshops like this one. 
