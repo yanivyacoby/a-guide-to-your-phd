@@ -4,7 +4,7 @@ title: How to make the most out of your PhD
 description: A guide from current to incoming students
 ---
 
-[back](./)
+[back to the workshop info](./)
 
 
 # Introduction
@@ -423,3 +423,12 @@ and have an open discussion with your advisor about what they expect from you.
 Regularly check on your peers, show them that just like them, you don't have everything figured out.
 Take the time to educate yourself on challenges faced by your peers from underrepresented minority groups.
 
+
+
+# Additional Readings
+
+If you're looking for additional perspectives and thoughts about the PhD process, 
+some students have found the following readings useful:
+* [Getting What You Came For: The Smart Student's Guide to Earning a Master's or Ph.D.](https://www.goodreads.com/book/show/460669.Getting_What_You_Came_For?ac=1&from_search=true&qid=Hcjum6Bb4o&rank=4) 
+* [A PhD Is Not Enough: A Guide To Survival In Science](https://www.goodreads.com/book/show/587478.A_PhD_Is_Not_Enough?ac=1&from_search=true&qid=bDPkU7m8YU&rank=5)
+* [The Ph.D. Grind: A Ph.D. Student Memoir](https://www.goodreads.com/en/book/show/15731248-the-ph-d-grind)
