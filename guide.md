@@ -420,7 +420,8 @@ It is _always_ a good idea to be proactive, solicit feedback about your progress
 and have an open discussion with your advisor about what they expect from you.
 
 **Support your peers.** 
-Regularly check on your peers, show them that just like them, you don't have everything figured out.
+Regularly check on your peers, show them that just like them, you don't have everything figured out --
+if we are all open and honest about our experiences, we can, as a community, help each other set healthy and reasonable expectations for ourselves.
 Take the time to educate yourself on challenges faced by your peers from underrepresented minority groups.
 
 
