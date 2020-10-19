@@ -55,15 +55,19 @@ Don't worry! **The complete workshop materials can be found [here](./guide.html)
     </tr>
     <tr>
       <td><b>Content contributors</b></td>
-      <td>Clark Teeple, Finale Doshi-Velez, Ike Lage, John Girash, Thomas Plumb-Reyes, Weiwei Pan</td>
+      <td>Clark Teeple, Finale Doshi-Velez, Isaac Lage, John Girash, Thomas Plumb-Reyes, Weiwei Pan</td>
     </tr>
     <tr>
       <td><b>Organizational logistics</b></td>
       <td>Ann Greaney-Williams, Clark Teeple, John Girash, Rachel Zoll, Susan Forrest, William Qian</td>
     </tr>
     <tr>
+      <td><b>Presenters</b></td>
+      <td>Isaac Lage, Thomas Plumb-Reyes, Yaniv Yacoby</td>
+    </tr>
+    <tr>
       <td><b>Breakout-room mentors</b></td>
-      <td>Clark Teeple, Ike Lage, John Ahrens, Kelly Zhang, Lily Xu, Rachel Zoll, Thomas Plumb-Reyes, Vanessa Sanchez, Wilson Qin, Yaniv Yacoby</td>
+      <td>Clark Teeple, Isaac Lage, John Ahrens, Kelly Zhang, Lily Xu, Rachel Zoll, Thomas Plumb-Reyes, Vanessa Sanchez, Wilson Qin, Yaniv Yacoby</td>
     </tr>
   </tbody>
 </table>
