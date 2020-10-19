@@ -63,10 +63,11 @@ Don't worry! **The complete workshop materials can be found [here](./guide.html)
     </tr>
     <tr>
       <td><b>Breakout-room mentors</b></td>
-      <td>TBD</td>
+      <td>Clark Teeple, Ike Lage, John Ahrens, Kelly Zhang, Lily Xu, Rachel Zoll, Thomas Plumb-Reyes, Vanessa Sanchez, Wilson Qin, Yaniv Yacoby</td>
     </tr>
   </tbody>
 </table>
+
 
 
 
