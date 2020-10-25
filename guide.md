@@ -414,6 +414,7 @@ In order for us to create a supportive and welcoming community, we all need to s
 
 **Set reasonable expectations for yourself.**
 A PhD is a long process -- no one expects you to come in knowing everything.
+Set healthy and reasonable expectations for yourself based on _where_ you are in the process. 
 
 **Learn what your advisor's expectations are.**
 It is _always_ a good idea to be proactive, solicit feedback about your progress, communication skills, etc., 
