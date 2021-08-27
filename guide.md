@@ -151,7 +151,7 @@ Sometimes your advisor may offer you a professional opportunity outside of your 
 
 ## Students from Underrepresented Minority (URM) Groups
 
-If you are not a URM student, it may feel like that the image of a "good scientist" or a "good engineer" is aligned with your social, cultural and personal identities, but if you are a URM student, it may feel like being a "good scientist" or a "good engineer" requires you to suppress important aspects of yourself, because these concepts are often constructed in popular and academic culture in biased and exclusive terms. Furthermore, if you are from an underrepresented minority group, you may not see people like you represented in your lab, classrooms and the professionals in your field, and you may be more likely to suffer from imposter syndrome and encounter implicit bias in your career. **You are not expected to deal with these challenges on your own.**
+If you are not a URM student, it may feel like that the image of a "good scientist" or a "good engineer" is aligned with your social, cultural and personal identities, but if you are a URM student, it may feel like being a "good scientist" or a "good engineer" requires you to suppress important aspects of yourself, because these concepts are often constructed in popular and academic culture in biased and exclusive terms. Furthermore, if you are from an underrepresented minority group, you may not see people like you represented in your lab, classrooms and the professionals in your field, and you may be more likely to suffer from imposter phenomenon and encounter implicit bias in your career. **You are not expected to deal with these challenges on your own.**
 
 We strongly encourage you to **find your community**. You may not find many other people in your lab or your classroom who share in your non-professional identities and interests, but they do exist and they want to meet you too! A network of mentors and allies can help you make a place in your field where you can be yourself, help you process difficult experiences, as well as help you address the specific issues you may face in the classroom, lab or generally in grad life. We encourage you to seek out graduate student clubs, organizations or other events based on your identity or affinity, and work out your social muscles alongside your intellectual ones. 
 
@@ -369,7 +369,7 @@ If you are a URM student, you may find yourself needing to have a difficult conv
 **Lead with vulnerability:**
 Many of us who are in PhD programs have been trained to lead with strengths -- to portray ourselves in the way that makes us look most impressive so we can pass interviews, impress colleagues, etc.
 While leading strengths is a useful skill, it can also lead to isolation during grad school. 
-PhD students are at a significantly higher risk of developing depression, anxiety and imposter syndrome than the rest of the population.
+PhD students are at a significantly higher risk of experiencing depression, anxiety and imposter phenomenon than the rest of the population.
 It is easy to slip into a dark mindset in which you feel like you're not meeting your expectations for yourself, 
 and in which everyone around you is successful and well-balanced.
 And while in [Section 1](#part1), we encouraged you to set reasonable expectations for yourself based on your stage in the program;
@@ -380,6 +380,10 @@ if you are having a bad week, tell your friend about it -- don't just answer "I'
 If everyone contributed a real vulnerability, no one has to feel like they are the only one struggling, 
 and everyone can realize that many of their peers are facing similar difficulties.
 Moreover, if you lead with a real vulnerability, your friend might reciprocate and give you a chance to be supportive. 
+We recognize that it is a privilege to be able to lead with vulnerability, 
+and that leading with vulnerability positions some students in a difficult position, 
+in which they may be reinforcing negative stereotypes -- as such, 
+we emphasize again the importance of finding a supportive community that creates a space in which everyone can be themselves.
 
 **Validate:**
 When you talk to a peer who is leading with a vulnerability, although un-intuitive, it is sometimes good to just listen and to sympathize.
