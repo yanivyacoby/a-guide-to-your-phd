@@ -408,6 +408,8 @@ Some of your peers may encounter unsympathetic or even hateful attitudes about t
 * ["Those invisible barriers are real": The Progression of First-Generation Students Through Doctoral Education](https://mcnair.siu.edu/_common/documents/univ-401a/the-progression-of-first-gen-students-through-doctoral-education.pdf)
 * [Challenging Technical Privilege: How Race and Gender Matter](https://challengingtechnicalprivilege.weebly.com/)
 * [Why Are Some STEM Fields More Gender Balanced Than Others?](https://research.chicagobooth.edu/-/media/research/cdr/docs/cheryan-paper-1.aspx)
+* ["I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough": Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing](https://vanderbilt.app.box.com/s/fs7j3c4m7l8mkprmqywrzds0iwuizi9k)
+* ["Black Genius, Asian Fail": The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students](https://journals.sagepub.com/doi/full/10.1177/2332858418816658)
 * Readings from the Harvard IACS course on [Diversity, Inclusion and Leadership in Tech](https://onefishy.github.io/DIL_in_tech/reading_list.html)
 
 In order for us to create a supportive and welcoming community, we all need to share in the burden shouldered by every member of our community -- working together to understand and address the challenges facing each of us creates a better environment for everyone. 
