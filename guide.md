@@ -305,11 +305,8 @@ Sometime it's helpful to get more perspectives than just your advisor's,
 whether on a technical problem, a life decision, support, etc.
 
 _We encourage you to get to know [John Girash](https://scholar.harvard.edu/girash/home)_.
-John is the Director of Graduate Education and
-and Ann is the Graduate Academic Program Administrator;
-they are invested in your experience and your well-being
-and are here to support you. 
-They will work with you to resolve any problem you encounter throughout your PhD.
+John is the Director of Graduate Education and is invested in your experience and your well-being. 
+He will work with you to resolve any problem you encounter throughout your PhD.
 
 > **How to get to know more faculty?**
 * You can take their classes and attend their office hours.
