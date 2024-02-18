@@ -77,10 +77,6 @@ The good news though, is that **excitement is a skill** one can to work on!
 We therefore recommend that if you start noticing yourself feeling this way, 
 talk to your advisors and lab-mates and see what works for them!
 
-> **Additional things to try include**,
-* Switching between different research projects or between research and class-work when you feel like you are losing momentum ("productive procrastination"). 
-* Reminding yourself of how your research contributes to the bigger picture.
-
 
 ## Process vs. outcomes
 
